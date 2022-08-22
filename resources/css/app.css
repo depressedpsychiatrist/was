@@ -1,0 +1,30 @@
+*,
+body {
+  font-family: "gilroy-regular", sans-serif !important;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html,
+body {
+  height: 100%;
+  background-color: #152733;
+  overflow: hidden;
+  color: white !important
+}
+h1,h2,h3,h4,h5,h6 {
+    color: white;
+}
+
+a {
+    text-decoration: none !important
+}
+.font-bold {
+    font-family: "gilroy-bold", sans-serif !important;
+}
+.font-medium {
+    font-family: "gilroy-medium", sans-serif !important;
+}
+
